@@ -1,0 +1,61 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+.header_div {
+    background-color: white;
+    color: tomato;
+}
+
+.header_div img {
+    width: 100px;
+
+}
+
+.main_div {
+    padding: 10px;
+    margin-top: 20px;
+    border: 3px solid black;
+}
+
+.main_div label {
+    background: blanchedalmond;
+    width: 300px;
+    padding: 10px;
+    box-shadow: 5px 5px 20px beige;
+}
+
+#camera,
+#Image {
+    width: 310px;
+    height: 300px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 20px bisque;
+
+}
+
+.Foot {
+    margin-bottom: 15px;
+}
+
+.Foot h4 {
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 1px 5px 20px beige;
+    background: mediumturquoise;
+}
+
+.Foot img {
+    width: 50px;
+    float: left;
+}
+#Footeer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: plum;
+    line-height: 2;
+    width: 100%;
+}
